@@ -1,0 +1,60 @@
+C:\Users\harry\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.exe
+C:\Users\harry\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.deps.json
+C:\Users\harry\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.json
+C:\Users\harry\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.dev.json
+C:\Users\harry\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.dll
+C:\Users\harry\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.pdb
+C:\Users\harry\source\repos\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csprojAssemblyReference.cache
+C:\Users\harry\source\repos\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfoInputs.cache
+C:\Users\harry\source\repos\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfo.cs
+C:\Users\harry\source\repos\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.dll
+C:\Users\harry\source\repos\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.pdb
+C:\Users\harry\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\harry\source\repos\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csproj.CopyComplete
+C:\Users\harry\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\harry\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\harry\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\harry\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\harry\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\harry\source\repos\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.exe
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.deps.json
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.json
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.dev.json
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.dll
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.pdb
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csprojAssemblyReference.cache
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfoInputs.cache
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfo.cs
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csproj.CopyComplete
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.dll
+D:\Users\harry\Piano Rhythm Game\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.pdb
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.exe
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.deps.json
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.json
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.runtimeconfig.dev.json
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.dll
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\SocketServer.pdb
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\bin\Debug\netcoreapp3.1\Google.Protobuf.dll
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csproj.AssemblyReference.cache
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfoInputs.cache
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.AssemblyInfo.cs
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csproj.CoreCompileInputs.cache
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.csproj.CopyComplete
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.dll
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.pdb
+C:\Users\harry\Desktop\毕业设计\SocketServer\SocketServer\obj\Debug\netcoreapp3.1\SocketServer.genruntimeconfig.cache
