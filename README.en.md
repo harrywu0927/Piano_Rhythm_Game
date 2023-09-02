@@ -5,6 +5,11 @@
   
 Note: The English version is translated by ChatGPT.
 
+## Game Introduction
+
+This is a music game developed using the Unity3D engine. The gameplay is based on the classic concept of eliminating falling notes. In addition to that, it includes features such as a challenge system, leaderboard, and a shop system.
+
+
 ## Core Gameplay
 
 After the game starts, the program loads the corresponding files, and notes will fall on the screen in a specific sequence. When a note reaches the judgement line (the time when the note should be played in the music), the player presses the corresponding key to play the note. After completing several of these actions, the game ends. The program calculates the total score, as well as rewards in terms of coins and experience points based on the player's performance.
@@ -119,6 +124,7 @@ Challenge Result Notification Information
 - challengeId: Unique identifier for the challenge
 - Userid: ID of the user to be notified
 - Isread: Whether the notification has been read
+
 ### Building the Music Library
 
 Write a web crawler program to crawl over 700 classical music MIDI files from the website https://midi.midicn.com and simultaneously store their song names, authors, and other information in the database.
@@ -198,6 +204,7 @@ Regarding the implementation of the progress bar, there are two methods. The fir
 If the Esc key is pressed during the game, the game session will be immediately terminated, and the game will enter the final scoring phase based on the current game data.
 
 #### Purchasing Songs and Starting the Game
+
 ![Alt text](images/image-14.png)
 
 Players can click on the dropdown menu for composer search to retrieve songs by a specific composer, or they can enter the song name themselves for a fuzzy search. Clicking on a song in the list is considered purchasing the song. It sends a request to the server to buy the song, and the server checks the user's coin balance. If there are enough coins, it deducts a certain amount of coins and adds the song to the player's song assets. A purchase success message is then returned to the client.
@@ -207,6 +214,7 @@ After a successful purchase, players can enter the song selection interface, whi
 The options in the composer dropdown menu are not preset. Instead, they are initialized by reading the values in the "Author" field from the data packet sent by the server. After the server reads all the specified songs, it also extracts all the different composers and writes them into the "Author" field of the MainPack. Therefore, the content in the dropdown menu varies depending on the transferred songs.
 
 #### Game Settlement
+
 After a game ends or is forcibly interrupted, the game backend packages the specific data of the game and sends it to the server. Then, it enters the game settlement page and waits for the processing result from the server.
 
 Once the server receives the request packet, it calculates the coin reward and experience reward that the player can obtain from this game based on the player's performance in the session, according to a certain rule. The server saves the game result in the database and updates the player's personal data in the database, including the coin balance, total experience points, and level. Afterwards, the server returns the processing result to the client.
