@@ -1,7 +1,7 @@
 ## README.md
 
 - en [English](README.en.md)
-- zh_CN [简体中文](readme/README.md)
+- zh_CN [简体中文](README.md)
   
 Note: The English version is translated by ChatGPT.
 
