@@ -5,6 +5,7 @@
   
 Note: The English version is translated by ChatGPT.
 
+<video src="PianoRhythmGame.mp4" controls></video>
 ## Game Introduction
 
 This is a music game developed using the Unity3D engine. The gameplay is based on the classic concept of eliminating falling notes. In addition to that, it includes features such as a challenge system, leaderboard, and a shop system.

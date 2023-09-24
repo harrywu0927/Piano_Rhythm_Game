@@ -3,7 +3,7 @@
 - en [English](README.en.md)
 - zh_CN [简体中文](README.md)
   
-
+<video src="PianoRhythmGame.mp4" controls></video>
 ## 游戏介绍
 此为使用Unity3D引擎开发的音乐游戏，玩法为经典的音符下落消除，在此基础之上衍生出了挑战系统、排名和商店系统等。
 
